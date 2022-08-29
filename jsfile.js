@@ -4,7 +4,7 @@
 	document.head.insertAdjacentHTML('beforeend','<style>.sg { width: 50px; height: 50px; position: fixed; bottom: 10px; right: 10px; border-radius: 50%;}</style>'); 
   
 	var a = document.createElement('a');
-	a.setAttribute('href','https://santy-gz.github.io/AboutMe/');
+	a.setAttribute('href','https://mrs4nty.github.io/AboutMe/');
 	a.setAttribute('target','_blank');
 	a.innerHTML = icon;
     
